@@ -41,7 +41,7 @@ em "rules" adicionar:
    `"react/react-in-jsx-scope": "off"`
    `"@typescript-eslint/explicit-module-boundary-types": "off"`
 
-colocar uma clasula settings para a versao do React
+colocar uma clausula settings para a versao do React
  `"settings": {`
        ` "react": {`
            ` "version" : "detect"`
